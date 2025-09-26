@@ -2,6 +2,9 @@
 """
 Synology Drive Unlocker PRO
 Единое приложение со всеми патчами и продвинутой системой логирования
+
+MIT License
+Copyright (c) 2025 AtomAlex12
 """
 
 import tkinter as tk

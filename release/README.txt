@@ -28,4 +28,4 @@
 - Диски: любые, включая Toshiba HDWT860
 
 ## Автор
-Synology Drive Unlocker Team
+AtomAlex12

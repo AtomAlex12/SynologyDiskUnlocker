@@ -3,6 +3,9 @@
 """
 Synology Drive Unlocker - Финальная версия для exe
 Основана на методе: https://github.com/007revad/Synology_HDD_db
+
+MIT License
+Copyright (c) 2025 AtomAlex12
 """
 
 import tkinter as tk

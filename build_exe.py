@@ -94,7 +94,7 @@ def create_installer():
 - Диски: любые, включая Toshiba HDWT860
 
 ## Автор
-Synology Drive Unlocker Team
+AtomAlex12
 """
     
     with open(f"{release_dir}/README.txt", "w", encoding="utf-8") as f:
