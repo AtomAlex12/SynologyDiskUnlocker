@@ -1,0 +1,27 @@
+# Synology Drive Unlocker - Зависимости
+# Установка: pip install -r requirements.txt
+
+# SSH клиент для подключения к NAS
+paramiko>=3.0.0
+
+# Дополнительные утилиты
+pexpect>=4.8.0
+
+# Для работы с конфигурацией
+configparser>=5.3.0
+
+# Для логирования
+colorlog>=6.7.0
+
+# Для работы с JSON
+# (встроен в Python 3.7+)
+
+# Для GUI (tkinter встроен в Python)
+# Дополнительные темы для tkinter
+ttkthemes>=3.2.2
+
+# Для работы с процессами
+psutil>=5.9.0
+
+# Для работы с сетью
+netifaces>=0.11.0
